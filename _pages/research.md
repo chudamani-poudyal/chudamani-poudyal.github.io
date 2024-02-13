@@ -7,21 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="display: flex; width: 100%;">
-  <div style="flex: 55%; padding-right: 10px;">    
-    Research Interest!
-    =====
-    - Actuarial Data Science 
-    - Big Data Analytics 
-    - Robust & Computational Statistics 
-    - Statistical Learning 
-    - Stochastic Optimization  
-  </div>
-  <div style="flex: 45%; padding-left: 10px;">
-  <!-- Your image goes here -->
-  ![Your Image Alt Text](/images/pyramid2.png)
-  </div>
-</div>
+| Content | Image |
+|---------|-------|
+| 
+Research Interest!
+=====
+- Actuarial Data Science 
+- Big Data Analytics 
+- Robust & Computational Statistics 
+- Statistical Learning 
+- Stochastic Optimization| ![Alt text](/images/pyramid2.png) |
 
 Publications
 =====
