@@ -8,9 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div style="display: flex; width: 100%;">
-  <div style="flex: 55%; padding-right: 10px;">
-    <!-- Your text content goes here -->
-    
+  <div style="flex: 55%; padding-right: 10px;">    
     Research Interest
     =====
     - Actuarial Data Science 
