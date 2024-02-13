@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- ![Alt text](/images/pyramid3.jpg){: .align-right style="width: 7cm; height: 7cm"} --> 
 
-<img src="/images/pyramid2.png" alt="Description of image" style="position: absolute; left: 60%; width: 7cm; height: 7cm;">
+![Alt text](/images/pyramid3.jpg){: style="position: absolute; left: 60%; width: 7cm; height: 7cm"} 
 
 <!-- 
 <div style="position: relative; width: 100%;">
