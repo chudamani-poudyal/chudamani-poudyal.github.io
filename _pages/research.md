@@ -13,7 +13,7 @@ author_profile: true
   <img src="/images/pyramid2.png" alt="Description of image" style="position: absolute; left: 50%; width: 7cm; height: 7cm;">
 </div>
 
-Research Interest!!!!
+Research Interest
 =====
 - Actuarial Data Science
 - Big Data Analytics
