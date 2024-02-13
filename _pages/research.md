@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to my Research page!"
+#title: "Welcome to my Research page!"
 permalink: /research/
 author_profile: true
 ---
