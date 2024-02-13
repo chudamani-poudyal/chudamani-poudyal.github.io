@@ -10,6 +10,7 @@ author_profile: true
 <div style="display: flex; width: 100%;">
   <div style="flex: 55%; padding-right: 10px;">
     <!-- Your text content goes here -->
+    
     Research Interest
     =====
     - Actuarial Data Science 
