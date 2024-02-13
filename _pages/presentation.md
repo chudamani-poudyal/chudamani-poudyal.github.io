@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to my Talks and Presentations page!"
+#title: "Welcome to my Talks and Presentations page!"
 permalink: /presentation/
 author_profile: true
 ---
