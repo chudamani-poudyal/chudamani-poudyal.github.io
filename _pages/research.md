@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Alt text](/images/pyramid2.png){: .align-right width="700px"} 
+![Alt text](/images/pyramid2.png){: .align-right width="500px"} 
 
 Research Interest
 =====
