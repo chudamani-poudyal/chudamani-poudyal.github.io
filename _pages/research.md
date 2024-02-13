@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+![Alt text](/images/pyramid2.png){: .align-right width="350px"} 
+
 Research Interest!
 =====
 - Actuarial Data Science
@@ -14,8 +16,6 @@ Research Interest!
 - Robust & Computational Statistics
 - Statistical Learning
 - Stochastic Optimization
-
-![Alt text](/images/pyramid2.png){: .align-right width="350px"} 
 
 Publications
 =====
