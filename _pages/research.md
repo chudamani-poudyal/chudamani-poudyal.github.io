@@ -27,7 +27,7 @@ Publications
 
 Preprints
 =====
-- Zhao, Q. and **Poudyal, C.** (2024). Winsorized robust credibility models. [arXiv:2306.09507](https://arxiv.org/abs/2306.09507)
+- Zhao, Q. and **Poudyal, C.** (2023). Winsorized robust credibility models. [arXiv:2306.09507](https://arxiv.org/abs/2306.09507)
 - **Poudyal, C.** (2024). Robust estimation of Pareto's scale parameter from grouped data. [arXiv:2401.14593](https://arxiv.org/abs/2401.14593)
 - **Poudyal, C.** (2024). Asymptotic equivalency of two different approaches of L-statistics. [arXiv:2402.07406](https://arxiv.org/abs/2402.07406)
 
