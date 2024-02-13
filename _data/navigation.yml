@@ -1,7 +1,7 @@
 # main links links and not working!
 main:
   - title: "Research"
-    url: /research/
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
