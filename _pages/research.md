@@ -10,6 +10,7 @@ author_profile: true
 Research Interest
 =====
 ![Editing a markdown file for a talk](/images/pyramid2.png){: .align-right width="350px"}
+
 - Actuarial Data Science 
 - Big Data Analytics 
 - Robust & Computational Statistics 
