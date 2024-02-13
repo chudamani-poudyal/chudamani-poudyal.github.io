@@ -7,15 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-Research Interest
-=====
-![Editing a markdown file for a talk](/images/pyramid2.png){: .align-right width="350px"}
-
-- Actuarial Data Science 
-- Big Data Analytics 
-- Robust & Computational Statistics 
-- Statistical Learning 
-- Stochastic Optimization
+<div style="display: flex;">
+  <div style="flex: 50%; padding-right: 10px;">
+  
+  Research Interest
+  =====
+  - Actuarial Data Science 
+  - Big Data Analytics 
+  - Robust & Computational Statistics 
+  - Statistical Learning 
+  - Stochastic Optimization  
+  </div>
+  <div style="flex: 50%; padding-left: 10px;">
+  
+ <!-- Column 2 Content -->
+  ![Editing a markdown file for a talk](/images/pyramid2.png){: .align-right width="350px"}
+  </div>
+</div>
 
 Publications
 =====
