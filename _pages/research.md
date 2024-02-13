@@ -10,7 +10,7 @@ author_profile: true
 | Content | Image |
 |---------|-------|
 | 
-Research Interest!
+Research Interest
 =====
 - Actuarial Data Science 
 - Big Data Analytics 
