@@ -6,7 +6,7 @@ permalink: /404.html
 author_profile: false
 ---
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for different tabs above! 👆🏿
+Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for different pages above! 👆🏿
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
