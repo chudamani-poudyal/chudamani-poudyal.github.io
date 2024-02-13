@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-![Alt text](/images/pyramid2.png){: .align-right style="width: 7cm; height: 7cm"} 
+![Alt text](/images/pyramid2.png){: .align-middle style="width: 7cm; height: 7cm"} 
 
-Research Interest
+Research Interest!
 =====
 - Actuarial Data Science
 - Big Data Analytics
