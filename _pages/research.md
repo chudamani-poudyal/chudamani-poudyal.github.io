@@ -9,7 +9,7 @@ author_profile: true
 
 ![Alt text](/images/pyramid2.png){: .align-right width="350px"} 
 
-Research Interest!
+Research Interest
 =====
 - Actuarial Data Science
 - Big Data Analytics
