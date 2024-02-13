@@ -10,10 +10,10 @@ author_profile: true
 <!-- ![Alt text](/images/pyramid2.png){: .align-right style="width: 7cm; height: 7cm"} --> 
 
 <div style="position: relative; width: 100%;">
-  <img src="/images/pyramid2.png" alt="Description of image" style="position: absolute; left: 30%; width: 7cm; height: 7cm;">
+  <img src="/images/pyramid2.png" alt="Description of image" style="position: absolute; left: 35%; width: 7cm; height: 7cm;">
 </div>
 
-Research Interest!
+Research Interest
 =====
 - Actuarial Data Science
 - Big Data Analytics
