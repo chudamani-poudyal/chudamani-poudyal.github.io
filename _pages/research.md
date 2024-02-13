@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Alt text](/images/pyramid2.png){: .align-right style="width: 10cm; height: 6cm"} 
+![Alt text](/images/pyramid2.png){: .align-right style="width: 20cm; height: 8cm"} 
 
 Research Interest!!
 =====
