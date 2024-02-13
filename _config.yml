@@ -103,8 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  arxiv:
-  uri              : "https://arxiv.org/search/stat?searchtype=author&query=Poudyal,+C"
+  arXiv            : "https://arxiv.org/search/stat?searchtype=author&query=Poudyal,+C"
   orcid            : "https://orcid.org/0000-0003-4528-867X"
   pinterest        :
   soundcloud       :
