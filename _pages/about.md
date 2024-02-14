@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- <a href="https://uwm.edu/math/people/poudyal-chudamani/">UW-Milwaukee Webpage</a> -->
-<a href="https://uwm.edu/math/people/poudyal-chudamani/">UW-Milwaukee Webpage &#8599;</a>
+<a href="https://uwm.edu/math/people/poudyal-chudamani/" target="_blank">UW-Milwaukee Webpage (&#8599;)</a>
 
 <!-- ![Editing a markdown file for a talk](/images/pyramid2.png){: .align-right width="350px"} -->
 ![Editing a markdown file for a talk](/images/PT2.jpg){: .align-right width="350px"}
