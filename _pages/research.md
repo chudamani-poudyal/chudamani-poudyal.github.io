@@ -39,6 +39,10 @@ Preprints
 - **Poudyal, C.** (2024). Robust estimation of Pareto's scale parameter from grouped data. [arXiv:2401.14593](https://arxiv.org/abs/2401.14593)
 - **Poudyal, C.** (2024). Asymptotic equivalency of two different approaches of L-statistics. [arXiv:2402.07406](https://arxiv.org/abs/2402.07406)
 
+Preprints Profile
+=====
+- 
+
 Graduate Works
 =====
 - PhD Dissertation - [Robust Estimation of Parametric Models for Insurance Loss Data](https://www.proquest.com/docview/2108720338/24B38B06711543AFPQ/2?sourcetype=Dissertations%20&%20Theses)
