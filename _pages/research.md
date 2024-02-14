@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Alt text](/images/pyramid3.jpg){: .align-right style="width: 7cm; height: 7cm"}
+![A Pyramid](/images/pyramid3.jpg){: .align-right style="width: 7cm; height: 7cm"}
 
 <!-- 
 <div style="position: relative; width: 100%;">
