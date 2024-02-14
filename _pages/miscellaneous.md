@@ -18,6 +18,15 @@ Professional Societies
 - [Nepal Mathematical Society - NMS](https://www.nms.org.np/)
 - [Society of Actuaries - SoA](https://www.soa.org/)
 
+Scholarly Journals
+====
+- Actuarial
+  - [ASTIN Bulletin](https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa)
+  - [European Actuarial Journal](https://link.springer.com/journal/13385)
+  - [North American Actuarial Journal](https://www.tandfonline.com/journals/uaaj20)
+  - [Scandinavian Actuarial Journal](https://www.tandfonline.com/journals/sact20)
+  - 
+
 Pictures
 =====
 Here are some pictures of the beautify nature! 
