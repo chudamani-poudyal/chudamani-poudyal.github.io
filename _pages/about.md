@@ -23,6 +23,10 @@ Education
 - M.A., Mathematics, Central Department of Mathematics, Kathmandu, Nepal (2009).
 - B.A., Mathematics, Tribhuvan University, Kathmandu, Nepal (2005). 
 - B.Ed., Mathematics Education, Tribhuvan University, Dhankuta, Nepal (2004).
+
+Professional Certification/Designation
+=====
+-  <a href="https://www.soa.org/Education/Exam-Req/edu-asa-req.aspx)">ASA - Associate of the Society of Actuaries</a>, 2023-present.
   
 Experience
 =====
@@ -30,9 +34,8 @@ Experience
 - August 2021 - July 2023, Visiting Assistant Professor with Graduate Faculty status, <a href="https://sciences.ucf.edu/statistics/">Department of Statistics and Data Science</a>, University of Central Florida, Orlando, FL.
 - August 2018 - July 2021, Assistant Professor, <a href="https://www.tntech.edu/cas/math/">Department of Mathematics</a>, Tennessee Tech University, Cookeville, TN.
 
-Professional Certification/Designation
+Selected Awards
 =====
-- [ASA - Associate of the Society of Actuaries](https://www.soa.org/Education/Exam-Req/edu-asa-req.aspx), 2023-present.
 
 Contact
 -------
