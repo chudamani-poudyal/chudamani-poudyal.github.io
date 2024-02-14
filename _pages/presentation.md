@@ -10,7 +10,7 @@ author_profile: true
 Invited Talks
 =====
  - *Core contents for data science in the era of AI*, NMS-ANMA Talk Series #9 - jointly organized by [Nepal Mathematical Society](https://www.nms.org.np/) and [Association of Nepalese Mathematicians in America](https://www.anmaweb.org/). December 8, 2023 (virtual).
- - *Let's follow the way we observe the data to estimate the parameters of claim severity distributions*, [Midwest Actuarial Research Seminars MARS](https://www.math.purdue.edu/news/2023/midwest-actuarial-research-seminars.html), Purdue Actuarial Science Program, Department of Statistics, Purdue University, West Lafayette, IN. November 11, 2023.
+ - *Let's follow the way we observe the data to estimate the parameters of claim severity distributions*, [Midwest Actuarial Research Seminars-MARS](https://www.math.purdue.edu/news/2023/midwest-actuarial-research-seminars.html), Purdue Actuarial Science Program, Department of Statistics, Purdue University, West Lafayette, IN. November 11, 2023.
  - *Fitting robust predictive models for insurance loss severity data*, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, Milwaukee, WI. Spring 2023.
  - *Robust and efficient predictive models for actuarial claim severity data*, Department of Mathematics, The Ohio State University, Columbus, OH. Spring 2023.
  - *Contemporary perspective on actuarial and data science*, School of Mathematical Sciences, Tribhuvan University, Kathmandu, Nepal. August 4, 2022.
