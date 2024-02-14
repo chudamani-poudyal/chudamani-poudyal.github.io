@@ -31,7 +31,7 @@ University of Central Florida
   - [STA 4131 Life Contingencies II](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca81509d7535e77987738f)
   - [STA 4102 Computer Processing of Statistical Data](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca815002fd3aa6f76d8989)
 
-**Additional courses and my teaching evaluations can be found in my CV.**
+**Additional courses and my teaching evaluations can be found in my <a href="https://chudamani-poudyal.github.io//cv/" target="_blank">CV (&#8599;)</a>.**
 
 
 
