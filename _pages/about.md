@@ -27,8 +27,8 @@ Education
 Experience
 =====
 - August 2023 - present, Assistant Professor, <a href="https://uwm.edu/math/">Department of Mathematical Sciences</a>, University of Wisconsin-Milwaukee, Milwaukee, WI. 
-- August 2021 - July 2023, Visiting Assistant Professor with Graduate Faculty status, [Department of Statistics and Data Science](https://sciences.ucf.edu/statistics/), University of Central Florida, Orlando, FL.
-- August 2018 - July 2021, Assistant Professor, [Department of Mathematics](https://www.tntech.edu/cas/math/), Tennessee Tech University, Cookeville, TN.
+- August 2021 - July 2023, Visiting Assistant Professor with Graduate Faculty status, <a href="https://sciences.ucf.edu/statistics/">Department of Statistics and Data Science</a>, University of Central Florida, Orlando, FL.
+- August 2018 - July 2021, Assistant Professor, <a href="https://www.tntech.edu/cas/math/"Department of Mathematics</a>, Tennessee Tech University, Cookeville, TN.
 
 Professional Certification/Designation
 =====
