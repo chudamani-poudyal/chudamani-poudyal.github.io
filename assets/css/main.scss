@@ -40,11 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.content a, .content a:hover, .content a:focus {
-    text-decoration: none;
-}
-
-.markdown a, .markdown a:hover, .markdown a:focus {
+a, a:hover, a:focus {
     text-decoration: none;
 }
 
