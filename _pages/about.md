@@ -14,7 +14,7 @@ redirect_from:
 <!-- ![Editing a markdown file for a talk](/images/pyramid2.png){: .align-right width="350px"} -->
 ![Editing a markdown file for a talk](/images/PT2.jpg){: .align-right width="350px"}
 <!--- ![Editing a markdown file for a talk](/images/PT2.jpg) --->
-Hello and welcome to my personal webpage! I'm _**Chudamani Poudyal**_, working as an Assistant Professor in the Department of Mathematical Sciences at the University of Wisconsin-Milwaukee. In addition, I'm also an accredited Associate of the Society of Actuaries - ASA from the <a href="https://www.soa.org/">SoA<a>. I appreciate your visit to my site. Please, feel free to take a look around at my work, and if you have any questions or are interested in teaming up, I'd be happy to hear from you.
+Hello and welcome to my personal webpage! I'm _**Chudamani Poudyal**_, working as an Assistant Professor in the Department of Mathematical Sciences at the University of Wisconsin-Milwaukee. In addition, I'm also an accredited Associate of the Society of Actuaries - ASA from the <a href="https://www.soa.org/">SoA</a>. I appreciate your visit to my site. Please, feel free to take a look around at my work, and if you have any questions or are interested in teaming up, I'd be happy to hear from you.
 
 Education
 =====
