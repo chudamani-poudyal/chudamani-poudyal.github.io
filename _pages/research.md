@@ -43,6 +43,7 @@ Preprints Profile
 =====
 - [ArXiv](http://arxiv.org/a/poudyal_c_1)
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5094613)
+- <a href="http://arxiv.org/a/poudyal_c_1" target="_blank">ArXiv</a>
 
 Graduate Works
 =====
