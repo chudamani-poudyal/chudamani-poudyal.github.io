@@ -26,7 +26,7 @@ Education
 
 Professional Certification/Designation
 =====
--  <a href="https://www.soa.org/Education/Exam-Req/edu-asa-req.aspx)">ASA - Associate of the Society of Actuaries</a>, 2023-present.
+-  <a href="https://www.soa.org/Education/Exam-Req/edu-asa-req.aspx">ASA - Associate of the Society of Actuaries</a>, 2023-present.
   
 Experience
 =====
