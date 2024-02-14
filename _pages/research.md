@@ -40,7 +40,7 @@ Preprints
 - **Poudyal, C.** (2024). Asymptotic equivalency of two different approaches of L-statistics. [arXiv:2402.07406](https://arxiv.org/abs/2402.07406)
 
 **Preprints Profile**
-- [arXiv](http://arxiv.org/a/poudyal_c_1)
+- [ArXiv](http://arxiv.org/a/poudyal_c_1)
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5094613)
 
 **Graduate Works**
