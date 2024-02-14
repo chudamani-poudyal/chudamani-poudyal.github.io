@@ -40,8 +40,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// To increase specificity
 body a, body a:hover, body a:focus {
     text-decoration: none;
 }
+
+// Or using !important to force precedence
+a {
+    text-decoration: none !important;
+}
+
 
 
