@@ -41,8 +41,8 @@ Preprints
 
 Preprints Profile
 =====
-- <a href="http://arxiv.org/a/poudyal_c_1" target="_blank">ArXiv &#8599;</a>
-- <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5094613" target="_blank">SSRN &#8599;</a>
+- <a href="http://arxiv.org/a/poudyal_c_1" target="_blank" style="text-decoration: none;">ArXiv &#8599;</a>
+- <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5094613" target="_blank" style="text-decoration: none;">SSRN &#8599;</a>
 
 Graduate Works
 =====
