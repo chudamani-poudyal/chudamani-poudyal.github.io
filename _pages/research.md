@@ -46,5 +46,5 @@ Preprints Profile
 
 Graduate Works
 =====
-- PhD Dissertation - [Robust Estimation of Parametric Models for Insurance Loss Data](https://www.proquest.com/docview/2108720338/24B38B06711543AFPQ/2?sourcetype=Dissertations%20&%20Theses)
+- PhD Dissertation - [Robust Estimation of Parametric Models for Insurance Loss Data](https://www.proquest.com/docview/2108720338/)
 - Master’s Thesis - [Bottleneck Just-in-Time Sequencing for Mixed-Model Production Systems](https://elibrary.tucl.edu.np/handle/123456789/6243)
