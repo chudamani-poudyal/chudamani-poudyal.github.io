@@ -30,7 +30,7 @@ Publications
 - **Poudyal, C.** and Brazauskas, V. (2023). [Finite-sample performance of the T- and W-estimators for the Pareto tail index under data truncation and censoring](https://doi.org/10.1080/00949655.2022.2146114). *Journal of Statistical Computation and Simulation*, 93(10): 1601-1621. 
 - **Poudyal, C.** and Brazauskas, V. (2022). [Robust estimation of loss models for truncated and censored severity data](https://variancejournal.org/article/38334-robust-estimation-of-loss-models-for-truncated-and-censored-severity-data). *Variance - The scientific journal of the Casualty Actuarial Society*, 15(2). 
 - **Poudyal, C.** (2021). [Robust estimation of loss models for lognormal insurance payment severity data](https://doi.org/10.1017/asb.2021.4). *ASTIN Bulletin: The Journal of the International Actuarial Association*, 51(2): 475-507. 
-- **Poudyal, C.** (2021). [Truncated, censored, and actuarial payment–type moments for robust fitting of a single-parameter Pareto distribution](https://doi.org/10.1016/j.cam.2020.113310). *Journal of Computational and Applied Mathematics*, 388.
+- **Poudyal, C.** (2021). [Truncated, censored, and actuarial payment–type moments for robust fitting of a single-parameter Pareto distribution](https://doi.org/10.1016/j.cam.2020.113310). *Journal of Computational and Applied Mathematics*, 388, 113310.
 - Dhamala, T.N., Khadka, S.R., and **Poudyal, C.** (2011). Optimal bottleneck mixed-model just-in-time production sequences. *Journal of Institute of Science and Technology*, Tribhuvan University, Nepal, 17: 81–102.
 - **Poudyal, C.** (2009). A concept on computational complexity theory. *Epsilon-Delta Yearly Mathematical Magazine*, Tribhuvan University, Nepal, 5: 85–91.
 
