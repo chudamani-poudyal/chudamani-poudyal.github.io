@@ -25,7 +25,8 @@ Research Interest
 
 Publications
 =====
-- **Poudyal, C.**, Zhao, Q., and Brazauskas, V. (2024). [Method of winsorized moments for robust fitting of truncated and censored lognormal distributions](https://doi.org/10.1080/10920277.2023.2183869). *North American Actuarial Journal*,  forthcoming. 
+- **Poudyal, C.** (2024). [Robust estimation of the tail index of a single parameter Pareto distribution from grouped data](https://doi.org/10.3390/risks12030045). *Risks*, 12(3), 45.
+- **Poudyal, C.**, Zhao, Q., and Brazauskas, V. (2024). [Method of winsorized moments for robust fitting of truncated and censored lognormal distributions](https://doi.org/10.1080/10920277.2023.2183869). *North American Actuarial Journal*,  28(1): 236-260. 
 - **Poudyal, C.** and Brazauskas, V. (2023). [Finite-sample performance of the T- and W-estimators for the Pareto tail index under data truncation and censoring](https://doi.org/10.1080/00949655.2022.2146114). *Journal of Statistical Computation and Simulation*, 93(10): 1601-1621. 
 - **Poudyal, C.** and Brazauskas, V. (2022). [Robust estimation of loss models for truncated and censored severity data](https://variancejournal.org/article/38334-robust-estimation-of-loss-models-for-truncated-and-censored-severity-data). *Variance - The scientific journal of the Casualty Actuarial Society*, 15(2): 1-20. 
 - **Poudyal, C.** (2021). [Robust estimation of loss models for lognormal insurance payment severity data](https://doi.org/10.1017/asb.2021.4). *ASTIN Bulletin: The Journal of the International Actuarial Association*, 51: 475-507. 
@@ -36,7 +37,6 @@ Publications
 Preprints
 =====
 - Zhao, Q. and **Poudyal, C.** (2023). Winsorized robust credibility models. [arXiv:2306.09507](https://arxiv.org/abs/2306.09507)
-- **Poudyal, C.** (2024). Robust estimation of the tail index of a single parameter Pareto distribution from grouped data. [arXiv:2401.14593](https://arxiv.org/abs/2401.14593)
 - **Poudyal, C.** (2024). Asymptotic equivalency of two different approaches of L-statistics. [arXiv:2402.07406](https://arxiv.org/abs/2402.07406)
 
 Preprints Profile
