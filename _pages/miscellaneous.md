@@ -28,7 +28,7 @@ Scholarly Journals
   - [Scandinavian Actuarial Journal](https://www.tandfonline.com/journals/sact20)
 --> 
 
-Mathematics Portal
+Miscellaneous Resources
 =====
 - <a href="https://www.mathjobs.org/" target="_blank" style="text-decoration: none;">MathJobs &#8599;</a>
 - <a href="https://www.genealogy.math.ndsu.nodak.edu/" target="_blank" style="text-decoration: none;">Mathematics Genealogy Project &#8599;</a>
