@@ -30,7 +30,7 @@ Scholarly Journals
 
 Mathematics Portal
 =====
-- [MathJobs](https://www.mathjobs.org/)
+- <a href="https://www.mathjobs.org/" target="_blank" style="text-decoration: none;">MathJobs &#8599;</a>
 - [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
 - [WolframAlpha](https://www.wolframalpha.com/)
 
