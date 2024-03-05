@@ -28,6 +28,11 @@ Scholarly Journals
   - [Scandinavian Actuarial Journal](https://www.tandfonline.com/journals/sact20)
 --> 
 
+Mathematics Portal
+=====
+- [MathJobs](https://www.mathjobs.org/)
+- [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
+
 Pictures
 =====
 Here are some pictures of the beautify nature! 
