@@ -31,8 +31,8 @@ Scholarly Journals
 Mathematics Portal
 =====
 - <a href="https://www.mathjobs.org/" target="_blank" style="text-decoration: none;">MathJobs &#8599;</a>
-- [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/)
-- [WolframAlpha](https://www.wolframalpha.com/)
+- <a href="https://www.genealogy.math.ndsu.nodak.edu/" target="_blank" style="text-decoration: none;">Mathematics Genealogy Project &#8599;</a>
+- <a href="https://www.wolframalpha.com/" target="_blank" style="text-decoration: none;">WolframAlpha &#8599;</a>
 
 Pictures
 =====
