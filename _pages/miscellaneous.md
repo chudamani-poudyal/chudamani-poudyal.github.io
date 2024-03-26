@@ -9,6 +9,10 @@ author_profile: true
 
 Here are some other important/useful items summarized! 
 
+To Know
+=====
+- [Actuaries and Data Science](https://www.theactuarymagazine.org/actuaries-and-data-science/), March 2024.
+
 Professional Societies
 ======
 - [American Mathematical Society - AMS](https://www.ams.org/home/page) 
