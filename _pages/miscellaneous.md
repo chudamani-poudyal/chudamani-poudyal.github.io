@@ -12,6 +12,8 @@ Here are some other important/useful items summarized!
 To Know
 =====
 - [Actuaries and Data Science](https://www.theactuarymagazine.org/actuaries-and-data-science/), March 2024.
+- [The Future of Actuarial Science](https://www.theactuarymagazine.org/the-future-of-actuarial-science/), August 2023.
+- [The AI Revolution Is Coming](https://www.theactuarymagazine.org/the-ai-revolution-is-coming/), January 2020.
 
 Professional Societies
 ======
