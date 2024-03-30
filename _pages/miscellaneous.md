@@ -46,7 +46,7 @@ Here are some pictures of the beautify nature!
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/PT1.jpg" style="width: 40%; height: auto">
-  <img src="/images/PT2.jpg" style="width: 60%; height: auto">
+  <img src="/images/Kumbhakarna.jpg" style="width: 60%; height: auto">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
