@@ -18,7 +18,6 @@ Hello and welcome to my personal webpage! I'm _**Chudamani Poudyal**_, working a
 
 Education
 ===== 
-- Ph.D., Mathematics, University of Wisconsin-Milwaukee, Milwaukee, WI (2018).
 - <a href="https://uwm.edu/math/people/poudyal-chudamani/">Ph.D., Mathematics</a>, University of Wisconsin-Milwaukee, Milwaukee, WI (2018).
 - M.S., Mathematics, New Mexico State University, Las Cruces, NM (2013).
 - M.A., Mathematics, Central Department of Mathematics, Kathmandu, Nepal (2009).
