@@ -35,9 +35,11 @@ Publications
 - Dhamala, T.N., Khadka, S.R., and **Poudyal, C.** (2011). Optimal bottleneck mixed-model just-in-time production sequences. *Journal of Institute of Science and Technology*, Tribhuvan University, Nepal, 17: 81–102.
 - **Poudyal, C.** (2009). A concept on computational complexity theory. *Epsilon-Delta Yearly Mathematical Magazine*, Tribhuvan University, Nepal, 5: 85–91.
 
+<!--
 Preprints
 =====
 - **Poudyal, C.** (2024). Asymptotic equivalency of two different approaches of L-statistics. [arXiv:2402.07406](https://arxiv.org/abs/2402.07406)
+-->
 
 Preprints Profile
 =====
