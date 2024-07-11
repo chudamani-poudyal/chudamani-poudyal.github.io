@@ -25,6 +25,7 @@ Research Interest
 
 Publications
 =====
+- **Poudyal, C.** (2024, accepted). On the asymptotic normality of trimmed and winsorized L-statistics. *Communications in Statistics - Theory and Methods*.
 - Zhao, Q. and **Poudyal, C.** (2024). [Credibility theory based on winsorizing](https://doi.org/10.1007/s13385-024-00391-7). *European Actuarial Journal*.
 - **Poudyal, C.** (2024). [Robust estimation of the tail index of a single parameter Pareto distribution from grouped data](https://doi.org/10.3390/risks12030045). *Risks*, 12(3), 45.
 - **Poudyal, C.**, Zhao, Q., and Brazauskas, V. (2024). [Method of winsorized moments for robust fitting of truncated and censored lognormal distributions](https://doi.org/10.1080/10920277.2023.2183869). *North American Actuarial Journal*,  28(1): 236-260. 
