@@ -20,6 +20,7 @@ Invited Talks
 
 Conference Presentations
 =====
+- Robust credibility models – The winsorized approach, [*27th International Congress on Insurance: Mathematics and Economics*](https://publish.illinois.edu/ime-conf-2024/), Chicago, IL. July 8-11, 2024.
 - Robust method of trimmed and winsorized moments for truncated and censored lognormal severity distributions, [*58th Actuarial Research Conference - ARC*](https://www.soa.org/prof-dev/events/2023-arc/), Des Moines, IA. July 30 - August 2, 2023.
 - Robust method of threshold truncated and censored moments, [*International Conference on Robust Statistics 2022 - ICORS 2022*](https://uwaterloo.ca/international-conference-robust-statistics/), University of Waterloo, Waterloo, Canada. July 5-10, 2022.
 - Fixed and random tail probabilistic robust parametric estimation methodology, [*56th Actuarial Research Conference - ARC*](https://www.soa.org/sections/education-research/educ-research-newsletter/2021/june/ehn-2021-06-guan/), August 19-21, 2021 (virtual).
