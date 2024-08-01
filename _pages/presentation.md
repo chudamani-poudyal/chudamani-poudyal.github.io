@@ -20,7 +20,7 @@ Invited Talks
 
 Conference Presentations
 =====
-- Learning claim severity models from lower-truncated and right-censored data, [*International Conference on Robust Statistics (ICORS) and the Conference on Data Science, Statistics and Visualisation} (DSSV)*](https://icors2024.statistics.gmu.edu/) - ICORS meets DSSV 2024, Fairfax, VA. July 28 - August 1, 2024.
+- Learning claim severity models from lower-truncated and right-censored data, [*International Conference on Robust Statistics (ICORS) and the Conference on Data Science, Statistics and Visualisation (DSSV)*](https://icors2024.statistics.gmu.edu/) - ICORS meets DSSV 2024, Fairfax, VA. July 28 - August 1, 2024.
 - Robust credibility models – The winsorized approach, [*27th International Congress on Insurance: Mathematics and Economics*](https://publish.illinois.edu/ime-conf-2024/), Chicago, IL. July 8-11, 2024.
 - Robust method of trimmed and winsorized moments for truncated and censored lognormal severity distributions, [*58th Actuarial Research Conference - ARC*](https://www.soa.org/prof-dev/events/2023-arc/), Des Moines, IA. July 30 - August 2, 2023.
 - Robust method of threshold truncated and censored moments, [*International Conference on Robust Statistics 2022 - ICORS 2022*](https://uwaterloo.ca/international-conference-robust-statistics/), Waterloo, Canada. July 5-10, 2022.
