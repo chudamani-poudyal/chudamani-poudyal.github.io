@@ -24,6 +24,7 @@ University of Central Florida
 - Undergraduate Courses
   - STA 4912 Directed Independent Research
   - [STA 4502 Nonparametric Statistical Methods](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca81505a158388209e74e4)
+  - [STA4241 Statistical Learning](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca815002fd3a83bd6d8988)
   - [STA 4186 Theory of Derivative Pricing](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca81505a158388209e74e4)
   - [STA 4183 Theory of Interest](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca8150e6bc79200673ec34)
   - [STA 4163 Statistical Methods II](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca81509d753573af87738e)
