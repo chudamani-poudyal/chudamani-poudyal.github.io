@@ -50,6 +50,12 @@ Here are some pictures of the beautify nature!
 </div>
 
 <div style="display: flex; justify-content: space-between;">
+  <img src="/images/SP1.jpg" style="width: 30%; height: auto">
+  <img src="/images/SP2.jpg" style="width: 30%; height: auto">
+  <img src="/images/SV3.jpg" style="width: 40%; height: auto">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <img src="/images/TN1.jpg" style="width: 30%; height: auto">
   <img src="/images/SM1.jpg" style="width: 30%; height: auto">
   <img src="/images/SM2.jpg" style="width: 40%; height: auto">
