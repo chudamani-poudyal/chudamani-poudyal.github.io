@@ -9,16 +9,12 @@ redirect_from:
 ---
 
 <!-- <a href="https://uwm.edu/math/people/poudyal-chudamani/">UW-Milwaukee Webpage</a> -->
-<!--
 <a href="https://uwm.edu/math/people/poudyal-chudamani/" target="_blank" style="text-decoration: none;">UW-Milwaukee Webpage &#8599;</a>
--->
 
 <!-- ![Editing a markdown file for a talk](/images/pyramid2.png){: .align-right width="350px"} -->
 ![Editing a markdown file for a talk](/images/PT2.jpg){: .align-right width="350px"}
 <!--- ![Editing a markdown file for a talk](/images/PT2.jpg) --->
-<!-- 
 Hello and welcome to my personal webpage! I'm _**Chudamani Poudyal**_, working as an Assistant Professor in the Department of Mathematical Sciences at the University of Wisconsin-Milwaukee. In addition, I'm also an accredited Associate of the Society of Actuaries - ASA from the <a href="https://www.soa.org/">SoA</a>. I appreciate your visit to my site. Please, feel free to take a look around at my work, and if you have any questions or are interested in teaming up, I'd be happy to hear from you.
--->
 
 Education
 ===== 
@@ -44,7 +40,6 @@ Selected Awards
 - Summer 2017: <a href="https://www.soa.org/globalassets/assets/files/static-pages/sections/education-research/arc-52nd-winner-announcement.pdf">First Place Prize</a>, Student Presentation Competition, 52nd Actuarial Research Conference, Atlanta, GA.
 - Spring 2011: European Commission Erasmus Mundus Europe-Asia Scholarship awarded for two years to attend the <a href="https://algant.eu/">ALGANT Master Program</a> at the University of Milan, Italy. 
 
-<!--
 Contact
 -------
 [University of Wisconsin-Milwaukee](https://uwm.edu/) \
@@ -52,4 +47,3 @@ Contact
 EMS Building, Room E447 \
 3200 N Cramer Street \
 Milwaukee, WI 53211
--->
