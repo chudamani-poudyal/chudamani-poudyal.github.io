@@ -47,5 +47,5 @@ Contact
 [University of Central Florida](https://www.ucf.edu/) \
 [Department of Statistics & Data Science](https://sciences.ucf.edu/statistics/) \
 TC2 209D \
-12710 Pegasus Dr \
+12710 Pegasus Dr. \
 Orlando, FL 32816
