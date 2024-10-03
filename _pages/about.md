@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <!-- <a href="https://uwm.edu/math/people/poudyal-chudamani/">UW-Milwaukee Webpage</a> -->
-<a href="https://uwm.edu/math/people/poudyal-chudamani/" target="_blank" style="text-decoration: none;">UW-Milwaukee Webpage &#8599;</a>
+<a href="https://sciences.ucf.edu/statistics/person/chudamani-poudyal/" target="_blank" style="text-decoration: none;">UCF Webpage &#8599;</a>
+<!-- <a href="https://uwm.edu/math/people/poudyal-chudamani/" target="_blank" style="text-decoration: none;">UW-Milwaukee Webpage &#8599;</a> -->
 
 <!-- ![Editing a markdown file for a talk](/images/pyramid2.png){: .align-right width="350px"} -->
 ![Editing a markdown file for a talk](/images/PT2.jpg){: .align-right width="350px"}
@@ -30,7 +31,8 @@ Professional Certification/Designation
   
 Experience
 =====
-- August 2023 - present, Assistant Professor, <a href="https://uwm.edu/math/">Department of Mathematical Sciences</a>, University of Wisconsin-Milwaukee, Milwaukee, WI. 
+- August 2024 - present, Assistant Professor, <a href="https://sciences.ucf.edu/statistics/">Department of Statistics and Data Science</a>, University of Central Florida, Orlando, FL. 
+- August 2023 - August 2024, Assistant Professor, <a href="https://uwm.edu/math/">Department of Mathematical Sciences</a>, University of Wisconsin-Milwaukee, Milwaukee, WI. 
 - August 2021 - July 2023, Visiting Assistant Professor with Graduate Faculty status, <a href="https://sciences.ucf.edu/statistics/">Department of Statistics and Data Science</a>, University of Central Florida, Orlando, FL.
 - August 2018 - July 2021, Assistant Professor, <a href="https://www.tntech.edu/cas/math/">Department of Mathematics</a>, Tennessee Tech University, Cookeville, TN.
 
@@ -42,8 +44,8 @@ Selected Awards
 
 Contact
 -------
-[University of Wisconsin-Milwaukee](https://uwm.edu/) \
-[Department of Mathematical Sciences](https://uwm.edu/math/) \
-EMS Building, Room E447 \
-3200 N Cramer Street \
-Milwaukee, WI 53211
+[University of Central Florida](https://www.ucf.edu/) \
+[Department of Statistics & Data Science](https://sciences.ucf.edu/statistics/) \
+TC2 209D \
+12710 Pegasus Dr \
+Orlando, FL 32816
