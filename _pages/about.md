@@ -32,7 +32,7 @@ Professional Certification/Designation
 Experience
 =====
 - August 2024 - present, Assistant Professor, <a href="https://sciences.ucf.edu/statistics/">Department of Statistics and Data Science</a>, University of Central Florida, Orlando, FL. 
-- August 2023 - August 2024, Assistant Professor, <a href="https://uwm.edu/math/people/poudyal-chudamani/">Department of Mathematical Sciences</a>, University of Wisconsin-Milwaukee, Milwaukee, WI. 
+- August 2023 - August 2024, <a href="https://uwm.edu/math/people/poudyal-chudamani/">Assistant Professor</a>, <a href="https://uwm.edu/math/">Department of Mathematical Sciences</a>, University of Wisconsin-Milwaukee, Milwaukee, WI. 
 - August 2021 - July 2023, Visiting Assistant Professor with Graduate Faculty status, <a href="https://sciences.ucf.edu/statistics/">Department of Statistics and Data Science</a>, University of Central Florida, Orlando, FL.
 - August 2018 - July 2021, Assistant Professor, <a href="https://www.tntech.edu/cas/math/">Department of Mathematics</a>, Tennessee Tech University, Cookeville, TN.
 
