@@ -29,6 +29,7 @@ University of Central Florida
   - [STA 4183 Theory of Interest](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca8150e6bc79200673ec34)
   - [STA 4163 Statistical Methods II](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca81509d753573af87738e)
   - [STA 4135 Loss Models II](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca8150a38edf649d3ecb20)
+  - [STA 4133 Loss Models I](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca8150a38edfe9613ecb21)
   - [STA 4131 Life Contingencies II](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca81509d7535e77987738f)
   - [STA 4102 Computer Processing of Statistical Data](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca815002fd3aa6f76d8989)
 
