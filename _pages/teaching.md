@@ -7,13 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-UW-Milwaukee 
-=====
-- MATH 899 Seminar in Advanced Mathematics: Actuarial Seminar
-- [ACTSCI 891 Actuarial Risk Theory](https://catalog.uwm.edu/courses/actsci/)
-- [ACTSCI 793 Actuarial Models I](https://catalog.uwm.edu/courses/actsci/)
-- [ACTSCI 593 Actuarial Models I](https://catalog.uwm.edu/courses/actsci/)
-
 University of Central Florida
 =====
 - Graduate Courses
@@ -32,6 +25,13 @@ University of Central Florida
   - [STA 4133 Loss Models I](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca8150a38edfe9613ecb21)
   - [STA 4131 Life Contingencies II](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca81509d7535e77987738f)
   - [STA 4102 Computer Processing of Statistical Data](https://www.ucf.edu/catalog/undergraduate/#/courses/view/60ca815002fd3aa6f76d8989)
+ 
+UW-Milwaukee 
+=====
+- MATH 899 Seminar in Advanced Mathematics: Actuarial Seminar
+- [ACTSCI 891 Actuarial Risk Theory](https://catalog.uwm.edu/courses/actsci/)
+- [ACTSCI 793 Actuarial Models I](https://catalog.uwm.edu/courses/actsci/)
+- [ACTSCI 593 Actuarial Models I](https://catalog.uwm.edu/courses/actsci/)
 
 **Additional courses and my sample teaching evaluations can be found in my <a href="https://chudamani-poudyal.github.io//cv/" target="_blank">CV &#8599;</a>.**
 
