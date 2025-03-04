@@ -11,7 +11,7 @@ Here are some other important/useful items summarized!
 
 To Know
 =====
-- [Actuarial Salary Survey](https://www.actuarialcareers.com/2024-salary-survey-results/), March 4, 2025.
+- [Actuarial Salary Survey](https://www.actuarialcareers.com/2024-salary-survey-results/), March 2025.
 - [Actuaries and Data Science](https://www.theactuarymagazine.org/actuaries-and-data-science/), March 2024.
 - [The Future of Actuarial Science](https://www.theactuarymagazine.org/the-future-of-actuarial-science/), August 2023.
 - [The AI Revolution Is Coming](https://www.theactuarymagazine.org/the-ai-revolution-is-coming/), January 2020.
