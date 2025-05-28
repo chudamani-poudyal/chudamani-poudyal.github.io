@@ -9,6 +9,8 @@ author_profile: true
 
 Invited Talks
 =====
+- *Some results in learning robust predictive models*, [2025 Annual ASA Florida Chapter Meeting](https://sciences.ucf.edu/statistics/2025-annual-asa-florida-chapter-meeting/), Department of Statistics and Data Science,
+University of Central Florida, Orlando, FL. February 7-8, 2025.
  - *Core contents for data science in the era of AI*, NMS-ANMA Talk Series #9 - jointly organized by [Nepal Mathematical Society](https://www.nms.org.np/) and [Association of Nepalese Mathematicians in America](https://www.anmaweb.org/). December 8, 2023 (virtual).
  - *Let's follow the way we observe the data to estimate the parameters of claim severity distributions*, [Midwest Actuarial Research Seminars-MARS](https://www.math.purdue.edu/news/2023/midwest-actuarial-research-seminars.html), Purdue Actuarial Science Program, Department of Statistics, Purdue University, West Lafayette, IN. November 11, 2023.
  - *Fitting robust predictive models for insurance loss severity data*, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, Milwaukee, WI. Spring 2023.
