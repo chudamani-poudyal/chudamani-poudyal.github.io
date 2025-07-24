@@ -25,7 +25,7 @@ Research Interest
 
 Publications
 =====
-- **Poudyal, C.**, Aryal, G.R., and Pokhrel, K.P. (2025). L-estimation of Claim Severity Models Weighted by Kumaraswamy Density. *[Insurance: Mathematics and Economics](https://www.sciencedirect.com/journal/insurance-mathematics-and-economics)*, accepted.
+- **Poudyal, C.**, Aryal, G.R., and Pokhrel, K.P. (2025). L-estimation of claim severity models weighted by Kumaraswamy density. *[Insurance: Mathematics and Economics](https://www.sciencedirect.com/journal/insurance-mathematics-and-economics)*, accepted.
 - **Poudyal, C.** (2025). [On the asymptotic normality of trimmed and winsorized L-statistics](https://doi.org/10.1080/03610926.2024.2384566). *Communications in Statistics - Theory and Methods*, 54(10): 3114–3133.
 - Zhao, Q. and **Poudyal, C.** (2024). [Credibility theory based on winsorizing](https://doi.org/10.1007/s13385-024-00391-7). *European Actuarial Journal*, 14: 777–807.
 - **Poudyal, C.** (2024). [Robust estimation of the tail index of a single parameter Pareto distribution from grouped data](https://doi.org/10.3390/risks12030045). *Risks*, 12(3), 45.
