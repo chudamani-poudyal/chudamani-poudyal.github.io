@@ -23,16 +23,19 @@ Invited Talks
 
 Conference Presentations
 =====
-- L-estimation of claim severity models: A flexible weighting approach, [*60th Actuarial Research Conference - ARC 2025*](https://sites.google.com/view/arc2025/), Toronto, Canada. July 29 - August 1, 2025.
-- Learning claim severity models from lower-truncated and right-censored data, [*International Conference on Robust Statistics (ICORS) and the Conference on Data Science, Statistics and Visualisation (DSSV)*](https://icors2024.statistics.gmu.edu/) - ICORS meets DSSV 2024, Fairfax, VA. July 28 - August 1, 2024.
-- Robust credibility models – The winsorized approach, [*27th International Congress on Insurance: Mathematics and Economics - IME 2024*](https://publish.illinois.edu/ime-conf-2024/), Chicago, IL. July 8-11, 2024.
-- Robust method of trimmed and winsorized moments for truncated and censored lognormal severity distributions, [*58th Actuarial Research Conference - ARC 2023*](https://www.soa.org/prof-dev/events/2023-arc/), Des Moines, IA. July 30 - August 2, 2023.
-- Robust method of threshold truncated and censored moments, [*International Conference on Robust Statistics 2022 - ICORS 2022*](https://uwaterloo.ca/international-conference-robust-statistics/), Waterloo, Canada. July 5-10, 2022.
-- Fixed and random tail probabilistic robust parametric estimation methodology, [*56th Actuarial Research Conference - ARC 2021*](https://www.soa.org/sections/education-research/educ-research-newsletter/2021/june/ehn-2021-06-guan/), August 19-21, 2021 (virtual).
-- Robust loss modeling for claim severity data, [*24th International Congress on Insurance: Mathematics and Economics - IME 2021*](https://publish.illinois.edu/ime-conf-2021/), July 5-9, 2021 (virtual).
-- Introduction to actuarial loss modeling, [*International Conference on Analysis and its Applications - ICAA-NEPAL-2021*](http://icaa2021.ku.edu.np/), Dhulikhel, Nepal. April 9-11, 2021 (virtual).
-- Estimating longormal insurance payment severity models, *55th Actuarial Research Conference - ARC*, August 10-12, 2020 (virtual).
-- T- and W-estimation for insurance loss severity models, *54th Actuarial Research Conference - ARC 2019*, Indianapolis, IN. August 14-17, 2019.
-- T-estimation for insurance loss data, *52nd Actuarial Research Conference - ARC 2017*, Atlanta, GA. July 26-29, 2017.
+<ol reversed>
+  <li>L-estimation of claim severity models: A flexible weighting approach, <a href="https://sites.google.com/view/arc2025/"><em>60th Actuarial Research Conference - ARC 2025</em></a>, Toronto, Canada. July 29 - August 1, 2025.</li>
+  <li>Learning claim severity models from lower-truncated and right-censored data, <a href="https://icors2024.statistics.gmu.edu/"><em>International Conference on Robust Statistics (ICORS) and the Conference on Data Science, Statistics and Visualisation (DSSV)</em></a> - ICORS meets DSSV 2024, Fairfax, VA. July 28 - August 1, 2024.</li>
+  <li>Robust credibility models – The winsorized approach, <a href="https://publish.illinois.edu/ime-conf-2024/"><em>27th International Congress on Insurance: Mathematics and Economics - IME 2024</em></a>, Chicago, IL. July 8-11, 2024.</li>
+  <li>Robust method of trimmed and winsorized moments for truncated and censored lognormal severity distributions, <a href="https://www.soa.org/prof-dev/events/2023-arc/"><em>58th Actuarial Research Conference - ARC 2023</em></a>, Des Moines, IA. July 30 - August 2, 2023.</li>
+  <li>Robust method of threshold truncated and censored moments, <a href="https://uwaterloo.ca/international-conference-robust-statistics/"><em>International Conference on Robust Statistics 2022 - ICORS 2022</em></a>, Waterloo, Canada. July 5-10, 2022.</li>
+  <li>Fixed and random tail probabilistic robust parametric estimation methodology, <a href="https://www.soa.org/sections/education-research/educ-research-newsletter/2021/june/ehn-2021-06-guan/"><em>56th Actuarial Research Conference - ARC 2021</em></a>, August 19-21, 2021 (virtual).</li>
+  <li>Robust loss modeling for claim severity data, <a href="https://publish.illinois.edu/ime-conf-2021/"><em>24th International Congress on Insurance: Mathematics and Economics - IME 2021</em></a>, July 5-9, 2021 (virtual).</li>
+  <li>Introduction to actuarial loss modeling, <a href="http://icaa2021.ku.edu.np/"><em>International Conference on Analysis and its Applications - ICAA-NEPAL-2021</em></a>, Dhulikhel, Nepal. April 9-11, 2021 (virtual).</li>
+  <li>Estimating longormal insurance payment severity models, <em>55th Actuarial Research Conference - ARC</em>, August 10-12, 2020 (virtual).</li>
+  <li>T- and W-estimation for insurance loss severity models, <em>54th Actuarial Research Conference - ARC 2019</em>, Indianapolis, IN. August 14-17, 2019.</li>
+  <li>T-estimation for insurance loss data, <em>52nd Actuarial Research Conference - ARC 2017</em>, Atlanta, GA. July 26-29, 2017.</li>
+</ol>
+
    
 
