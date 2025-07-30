@@ -34,8 +34,7 @@ Conference Presentations
   <li>Introduction to actuarial loss modeling, <a href="http://icaa2021.ku.edu.np/"><em>International Conference on Analysis and its Applications - ICAA-NEPAL-2021</em></a>, Dhulikhel, Nepal. April 9-11, 2021 (virtual).</li>
   <li>Estimating longormal insurance payment severity models, <a href="https://www.soa.org/497ad0/globalassets/assets/newsletters/expanding-horizons/2020/april/eh-2020-iss-04-14-vagts-ramsay-shengchao.pdf"><em>55th Actuarial Research Conference - ARC 2020</em></a>, August 10–12, 2020 (virtual).</li>
   <li>T- and W-estimation for insurance loss severity models, <a href="https://www.soa.org/news-and-publications/newsletters/expanding-horizons/2018/october/ehn-2018-iss57/invitation-to-the-54th-arc-in-2019-in-indianapolis/"><em>54th Actuarial Research Conference - ARC 2019</em></a>, Indianapolis, IN. August 14–17, 2019.</li>
-  <li>T-estimation for insurance loss data, <em>52nd Actuarial Research Conference - ARC 2017</em>, Atlanta, GA. July 26-29, 2017.</li>
+  <li>[T-estimation for insurance loss data](http://chudamani-poudyal.github.io/files/SOA_Prize_ARC_2017.pdf), <em>52nd Actuarial Research Conference - ARC 2017</em>, Atlanta, GA. July 26-29, 2017.</li>
 </ol>
-
    
 
