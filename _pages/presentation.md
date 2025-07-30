@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<ol reversed>
+  <li><em>Some results in learning robust predictive models</em>, <a href="https://sciences.ucf.edu/statistics/2025-annual-asa-florida-chapter-meeting/">2025 Annual ASA Florida Chapter Meeting</a>, Department of Statistics and Data Science, University of Central Florida, Orlando, FL. February 7-8, 2025.</li>
+  <li><em>Core contents for data science in the era of AI</em>, NMS-ANMA Talk Series #9 – jointly organized by <a href="https://www.nms.org.np/">Nepal Mathematical Society</a> and <a href="https://www.anmaweb.org/">Association of Nepalese Mathematicians in America</a>. December 8, 2023 (virtual).</li>
+  <li><em>Let's follow the way we observe the data to estimate the parameters of claim severity distributions</em>, <a href="https://www.math.purdue.edu/news/2023/midwest-actuarial-research-seminars.html">Midwest Actuarial Research Seminars-MARS</a>, Purdue University, November 11, 2023.</li>
+  <li><em>Fitting robust predictive models for insurance loss severity data</em>, University of Wisconsin-Milwaukee. Spring 2023.</li>
+  <li><em>Robust and efficient predictive models for actuarial claim severity data</em>, The Ohio State University. Spring 2023.</li>
+  <li><em>Contemporary perspective on actuarial and data science</em>, Tribhuvan University, Kathmandu. August 4, 2022.</li>
+  <li><em>Statistical insurance premium pricing models</em>, jointly organized by <a href="https://www.cdmathtu.edu.np/">Central Department of Mathematics</a> and <a href="https://www.nms.org.np/">Nepal Mathematical Society</a>. August 3, 2022.</li>
+  <li><em>Robust actuarial loss modeling for claim severity data</em>, University of Central Florida. Spring 2021 (virtual).</li>
+  <li><em>Robust estimation of loss models for lognormal insurance payment severity data</em>, University of Wisconsin-Milwaukee. Spring 2021 (virtual series).</li>
+</ol>
+
 Invited Talks
 =====
 9. *Some results in learning robust predictive models*, [2025 Annual ASA Florida Chapter Meeting](https://sciences.ucf.edu/statistics/2025-annual-asa-florida-chapter-meeting/), Department of Statistics and Data Science,
