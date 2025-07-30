@@ -32,7 +32,7 @@ Conference Presentations
   <li>Fixed and random tail probabilistic robust parametric estimation methodology, <a href="https://www.soa.org/sections/education-research/educ-research-newsletter/2021/june/ehn-2021-06-guan/"><em>56th Actuarial Research Conference - ARC 2021</em></a>, August 19-21, 2021 (virtual).</li>
   <li>Robust loss modeling for claim severity data, <a href="https://publish.illinois.edu/ime-conf-2021/"><em>24th International Congress on Insurance: Mathematics and Economics - IME 2021</em></a>, July 5-9, 2021 (virtual).</li>
   <li>Introduction to actuarial loss modeling, <a href="http://icaa2021.ku.edu.np/"><em>International Conference on Analysis and its Applications - ICAA-NEPAL-2021</em></a>, Dhulikhel, Nepal. April 9-11, 2021 (virtual).</li>
-  <li>Estimating longormal insurance payment severity models, <em>55th Actuarial Research Conference - ARC</em>, August 10-12, 2020 (virtual).</li>
+  <li>Estimating longormal insurance payment severity models, <em>55th Actuarial Research Conference - ARC 2020</em>, August 10-12, 2020 (virtual).</li>
   <li>T- and W-estimation for insurance loss severity models, <em>54th Actuarial Research Conference - ARC 2019</em>, Indianapolis, IN. August 14-17, 2019.</li>
   <li>T-estimation for insurance loss data, <em>52nd Actuarial Research Conference - ARC 2017</em>, Atlanta, GA. July 26-29, 2017.</li>
 </ol>
