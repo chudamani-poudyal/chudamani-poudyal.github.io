@@ -39,7 +39,7 @@ Experience
 Selected Awards
 =====
 - Spring 2018: <a href="https://uwm.edu/math/spring-2018-awards-ceremony-recap/">Mark Lawrence Teply Award</a>, University of Wisconsin-Milwaukee.
-- Summer 2017: <a href="https://www.soa.org/globalassets/assets/files/static-pages/sections/education-research/arc-52nd-winner-announcement.pdf">First Place Prize</a>, Student Presentation Competition, 52nd Actuarial Research Conference, Atlanta, GA.
+- Summer 2017: [First Place Prize](http://chudamani-poudyal.github.io/files/SOA_Prize_ARC_2017.pdf), Student Presentation Competition, 52nd Actuarial Research Conference, Atlanta, GA.
 - Spring 2011: European Commission Erasmus Mundus Europe-Asia Scholarship awarded for two years to attend the <a href="https://algant.eu/">ALGANT Master Program</a> at the University of Milan, Italy. 
 
 Contact
