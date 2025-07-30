@@ -21,17 +21,6 @@ Invited Talks
   <li><em>Robust estimation of loss models for lognormal insurance payment severity data</em>, University of Wisconsin-Milwaukee. Spring 2021 (virtual series).</li>
 </ol>
 
-9. *Some results in learning robust predictive models*, [2025 Annual ASA Florida Chapter Meeting](https://sciences.ucf.edu/statistics/2025-annual-asa-florida-chapter-meeting/), Department of Statistics and Data Science,
-University of Central Florida, Orlando, FL. February 7-8, 2025.
-8. *Core contents for data science in the era of AI*, NMS-ANMA Talk Series #9 - jointly organized by [Nepal Mathematical Society](https://www.nms.org.np/) and [Association of Nepalese Mathematicians in America](https://www.anmaweb.org/). December 8, 2023 (virtual).
-7. *Let's follow the way we observe the data to estimate the parameters of claim severity distributions*, [Midwest Actuarial Research Seminars-MARS](https://www.math.purdue.edu/news/2023/midwest-actuarial-research-seminars.html), Purdue Actuarial Science Program, Department of Statistics, Purdue University, West Lafayette, IN. November 11, 2023.
-6. *Fitting robust predictive models for insurance loss severity data*, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, Milwaukee, WI. Spring 2023.
-5. *Robust and efficient predictive models for actuarial claim severity data*, Department of Mathematics, The Ohio State University, Columbus, OH. Spring 2023.
-4. *Contemporary perspective on actuarial and data science*, School of Mathematical Sciences, Tribhuvan University, Kathmandu, Nepal. August 4, 2022.
-3. *Statistical insurance premium pricing models*, first speaker of the CDM-NMS Talk Series - jointly organized by [Central Department of Mathematics](https://www.cdmathtu.edu.np/), Tribhuvan University, Kathmandu, Nepal and [Nepal Mathematical Society](https://www.nms.org.np/). Kathmandu, Nepal. August 3, 2022.
-2. *Robust actuarial loss modeling for claim severity data*, Department of Statistics and Data Science, University of Central Florida, Orlando, FL. Spring 2021 (virtual).
-1. *Robust estimation of loss models for lognormal insurance payment severity data*, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, Milwaukee, WI. Spring 2021 (a series of virtual presentations).
-
 Conference Presentations
 =====
 - L-estimation of claim severity models: A flexible weighting approach, [*60th Actuarial Research Conference - ARC 2025*](https://sites.google.com/view/arc2025/), Toronto, Canada. July 29 - August 1, 2025.
