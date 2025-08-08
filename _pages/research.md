@@ -30,7 +30,7 @@ In .html
 -->
 
 <ol reversed>
-  <li><strong>Poudyal, C.</strong>, Aryal, G.R., and Pokhrel, K.P. (2025). <a href="https://doi.org/10.1016/j.insmatheco.2025.103134">L-estimation of claim severity models weighted by Kumaraswamy density</a>. <em>Insurance: Mathematics and Economics</em>, accepted.</li>
+  <li><strong>Poudyal, C.</strong>, Aryal, G.R., and Pokhrel, K.P. (2025). <a href="https://doi.org/10.1016/j.insmatheco.2025.103134">L-estimation of claim severity models weighted by Kumaraswamy density</a>. <em>Insurance: Mathematics and Economics</em>, 125, 103134.</li>
   <li><strong>Poudyal, C.</strong> (2025). <a href="https://doi.org/10.1080/03610926.2024.2384566">On the asymptotic normality of trimmed and winsorized L-statistics</a>. <em>Communications in Statistics - Theory and Methods</em>, 54(10): 3114–3133.</li>
   <li>Zhao, Q. and <strong>Poudyal, C.</strong> (2024). <a href="https://doi.org/10.1007/s13385-024-00391-7">Credibility theory based on winsorizing</a>. <em>European Actuarial Journal</em>, 14: 777–807.</li>
   <li><strong>Poudyal, C.</strong> (2024). <a href="https://doi.org/10.3390/risks12030045">Robust estimation of the tail index of a single parameter Pareto distribution from grouped data</a>. <em>Risks</em>, 12(3), 45.</li>
