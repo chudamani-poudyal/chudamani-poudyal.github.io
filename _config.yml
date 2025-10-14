@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chudamani Poudyal<br><span style='font-weight:normal; font-size:1.1em;'>चुडामणि पौडेल</span>"
+  name             : "Chudamani Poudyal<br><div style='text-align:center; font-weight:normal; font-size:1.1em;'>चुडामणि पौडेल</div>"
   avatar           : "ProfileCMP2.jpg"
   bio              : "PhD, ASA, is an Assistant Professor in the Department of Statistics and Data Science, University of Central Florida."
   location         : "Orlando, FL"
