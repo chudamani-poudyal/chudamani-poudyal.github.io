@@ -9,10 +9,7 @@
 locale                   : "en-US"
 title                    : "Chudamani Poudyal"
 title_separator          : "-"
-name                     : &name >
-                                Chudamani Poudyal<br>
-                                <span style="font-weight:normal; font-size:1.1em;">/tʃuː.da.mə.ni paʊ.dɛl/</span><br>
-                                <span style="font-weight:normal; font-size:1.1em;">चूडामणि पौडेल</span>
+name                     : "Chudamani Poudyal"
 
 description              : &description "personal description"
 url                      : https://chudamani-poudyal.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
