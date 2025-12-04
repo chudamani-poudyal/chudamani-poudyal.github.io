@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chudamani Poudyal"
+title                    : &name "Chudamani Poudyal<br><span style='font-weight:normal; font-size:1.1em;'>चूडामणि पौडेल</span>"
 title_separator          : "-"
 name                     : &name "Chudamani Poudyal<br>"<span style='font-weight:normal; font-size:1.1em;'>चूडामणि पौडेल</span>"
 description              : &description "personal description"
