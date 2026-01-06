@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](http://chudamani-poudyal.github.io/files/CMP_CV_January_2025.pdf) as of January 2025.
+Here is my [CV](http://chudamani-poudyal.github.io/files/CMP_CV_January_2026.pdf) as of January 2026.
